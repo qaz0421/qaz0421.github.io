@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "初めてのブログ記事"
-date: 2025-03-22
+date: 2025-03-24
 categories: [ブログ]
 tags: [Jekyll, GitHub Pages]
 ---

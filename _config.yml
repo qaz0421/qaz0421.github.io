@@ -29,9 +29,16 @@ theme: minima
 # github_username:  jekyll
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      categories: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default.
